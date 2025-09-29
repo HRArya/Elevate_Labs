@@ -1,0 +1,20 @@
+Account: 1234
+Holder: HRA
+Balance: 100,123,456.00
+Transactions:
+  - Account created with balance: 123456.0
+  - Deposited: 100,000,000.00 | Balance: 100,123,456.00
+---------------------------------------
+Account: 1245
+Holder: AM
+Balance: 1,000,000.00
+Transactions:
+  - Account created with balance: 1000000.0
+---------------------------------------
+Account: 19999
+Holder: BK
+Balance: 18,958,275,987.00
+Transactions:
+  - Account created with balance: 1.0E9
+  - Deposited: 17,958,275,987.00 | Balance: 18,958,275,987.00
+---------------------------------------
